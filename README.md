@@ -9,7 +9,7 @@ The repository provides code and data for the paper "Enhancing ADMET Property Mo
 
 [Link to the manuscript](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-dh70x) 
 
-Note: Previously, this repository was hosted at github.com/FLIDM/CFA4DD, which is no longer an active URL. 
+:warning: Note: Previously, this repository was hosted at github.com/FLIDM/CFA4DD, which is no longer an active URL. 
 
 # Python package: cfanalysis
 
