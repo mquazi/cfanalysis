@@ -5,7 +5,7 @@ MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.or
 [![Downloads](https://static.pepy.tech/badge/cfanalysis/month)](https://www.pepy.tech/projects/cfanalysis)
 
 # cfanalysis
-The repository provides code and data for the paper "Enhancing ADMET Property Models Performance through Combinatorial Fusion Analysis", categorized by drug encoding schemes: Morgan Circular Fingerprints, RDKit 2D descriptors, and MCFP. 
+The repository provides code and data to implement the CFA analysis introduced in the paper "Enhancing ADMET Property Models Performance through Combinatorial Fusion Analysis", categorized by drug encoding schemes: Morgan Circular Fingerprints, RDKit 2D descriptors, and MCFP. 
 
 [Link to the manuscript](https://chemrxiv.org/doi/full/10.26434/chemrxiv-2023-dh70x) 
 
