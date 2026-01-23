@@ -24,7 +24,7 @@ A Combinatorial Fusion Analysis (CFA) to enhance Absorption, Distribution, Metab
 You can install this package using `pip`. Run the following commands to install it and then import it:
 
 ```python
-pip install cfanalysis==0.1.9
+pip install cfanalysis==0.1.13
 import cfanalysis
 from cfanalysis import cfafunctions
 ```
